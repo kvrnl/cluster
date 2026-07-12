@@ -1,10 +1,10 @@
-# Cluster
+# Mainframe
 
-**A wall of remote desktops.** Cluster shows up to 36 live RDP connections at once in a clean grid —
+**A wall of remote desktops.** Mainframe shows up to 36 live RDP connections at once in a clean grid —
 a security-camera wall for your PCs, servers, and VPSes. Every viewport is live but view-only; expand
 one for full control, go true-fullscreen, or yank a single screen out into its own floating window.
 
-Free to use. Download it from **[kvrnl.io/products/cluster](https://kvrnl.io/products/cluster/)**.
+Free to use. Download it from **[kvrnl.io/products/mainframe](https://kvrnl.io/products/mainframe/)**.
 
 ## Features
 
